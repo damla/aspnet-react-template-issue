@@ -1,5 +1,5 @@
 # aspnet-react-template-issue
-Created to solve the issue found in the link below;
+- Created to solve the issue found in the link below;
 https://github.com/dotnet/aspnetcore/issues/27728
 
 # Changes
